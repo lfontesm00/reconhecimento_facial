@@ -1,0 +1,100 @@
+[
+    {
+        "id": 1,
+        "nome": "Lucas Fontes",
+        "cargo": "Dev",
+        "faces": [
+            "faces\\1_0.png",
+            "faces\\1_1.png",
+            "faces\\1_2.png",
+            "faces\\1_3.png",
+            "faces\\1_4.png"
+        ],
+        "data_cadastro": "2025-05-03 17:27:09"
+    },
+    {
+        "id": 2,
+        "nome": "Lucas Eugenio Fontes de Moura",
+        "cargo": "Dev",
+        "faces": [
+            "faces\\2_0.png",
+            "faces\\2_1.png",
+            "faces\\2_2.png",
+            "faces\\2_3.png",
+            "faces\\2_4.png"
+        ],
+        "data_cadastro": "2025-05-03 17:50:13"
+    },
+    {
+        "id": 3,
+        "nome": "Lucas",
+        "cargo": "Dev",
+        "faces": [
+            "faces\\3_0.png"
+        ],
+        "data_cadastro": "2025-05-03 17:59:34"
+    },
+    {
+        "id": 4,
+        "nome": "Lucas",
+        "cargo": "Dev",
+        "faces": [
+            "faces\\4_0.png"
+        ],
+        "data_cadastro": "2025-05-03 18:03:59"
+    },
+    {
+        "id": 5,
+        "nome": "Lucas",
+        "cargo": "Dev",
+        "faces": [
+            "faces\\5_0.png"
+        ],
+        "data_cadastro": "2025-05-03 18:08:19"
+    },
+    {
+        "id": 6,
+        "nome": "Lucas",
+        "cargo": "Dev",
+        "faces": [
+            "faces\\6_0.png"
+        ],
+        "data_cadastro": "2025-05-03 18:11:52"
+    },
+    {
+        "id": 7,
+        "nome": "Lucas",
+        "cargo": "Dev",
+        "faces": [
+            "faces\\7_0.png"
+        ],
+        "data_cadastro": "2025-05-03 18:15:12"
+    },
+    {
+        "id": 8,
+        "nome": "Lucas",
+        "cargo": "Dev",
+        "faces": [
+            "faces_db\\faces\\8_0.png"
+        ],
+        "data_cadastro": "2025-05-03 18:19:45"
+    },
+    {
+        "id": 9,
+        "nome": "Lucas",
+        "cargo": "Dev",
+        "faces": [
+            "faces_db\\faces\\9_0.png"
+        ],
+        "data_cadastro": "2025-05-03 18:26:43"
+    },
+    {
+        "id": 10,
+        "nome": "Lucas",
+        "cargo": "Dev",
+        "faces": [
+            "faces_db\\faces\\10_0.png"
+        ],
+        "data_cadastro": "2025-05-03 18:28:39"
+    }
+]

@@ -1,0 +1,3044 @@
+[
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:27:26",
+        "confianca": 77.5061167797237,
+        "imagem_path": "reconhecimentos/face_20250503_172726.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:27:27",
+        "confianca": 76.23585985481937,
+        "imagem_path": "reconhecimentos/face_20250503_172726.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:27:27",
+        "confianca": 79.19858078030629,
+        "imagem_path": "reconhecimentos/face_20250503_172727.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:27:27",
+        "confianca": 79.86647179178344,
+        "imagem_path": "reconhecimentos/face_20250503_172727.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:27:27",
+        "confianca": 76.03690165891258,
+        "imagem_path": "reconhecimentos/face_20250503_172727.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:27:27",
+        "confianca": 74.81838798163984,
+        "imagem_path": "reconhecimentos/face_20250503_172727.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:27:27",
+        "confianca": 77.89814825788858,
+        "imagem_path": "reconhecimentos/face_20250503_172727.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:27:27",
+        "confianca": 77.46616057534024,
+        "imagem_path": "reconhecimentos/face_20250503_172727.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:27:27",
+        "confianca": 78.06371514072782,
+        "imagem_path": "reconhecimentos/face_20250503_172727.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:27:27",
+        "confianca": 78.41843166604772,
+        "imagem_path": "reconhecimentos/face_20250503_172727.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:27:27",
+        "confianca": 76.11340979924016,
+        "imagem_path": "reconhecimentos/face_20250503_172727.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:27:27",
+        "confianca": 78.79543459135189,
+        "imagem_path": "reconhecimentos/face_20250503_172727.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:27:27",
+        "confianca": 78.58694473427903,
+        "imagem_path": "reconhecimentos/face_20250503_172727.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:27:27",
+        "confianca": 78.84578252754872,
+        "imagem_path": "reconhecimentos/face_20250503_172727.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:27:27",
+        "confianca": 79.13388052481118,
+        "imagem_path": "reconhecimentos/face_20250503_172727.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:27:27",
+        "confianca": 79.8772779961624,
+        "imagem_path": "reconhecimentos/face_20250503_172727.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:27:36",
+        "confianca": 79.3601739686072,
+        "imagem_path": "reconhecimentos/face_20250503_172736.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:27:36",
+        "confianca": 79.85124608855007,
+        "imagem_path": "reconhecimentos/face_20250503_172736.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:27:36",
+        "confianca": 79.56132521415577,
+        "imagem_path": "reconhecimentos/face_20250503_172736.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:27:37",
+        "confianca": 79.47657474334335,
+        "imagem_path": "reconhecimentos/face_20250503_172737.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:27:37",
+        "confianca": 78.68909823262508,
+        "imagem_path": "reconhecimentos/face_20250503_172737.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:27:37",
+        "confianca": 79.28662276166098,
+        "imagem_path": "reconhecimentos/face_20250503_172737.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:27:37",
+        "confianca": 79.94438585916363,
+        "imagem_path": "reconhecimentos/face_20250503_172737.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:27:37",
+        "confianca": 79.22752029644897,
+        "imagem_path": "reconhecimentos/face_20250503_172737.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:27:37",
+        "confianca": 79.37509093412397,
+        "imagem_path": "reconhecimentos/face_20250503_172737.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:27:38",
+        "confianca": 79.67631873897359,
+        "imagem_path": "reconhecimentos/face_20250503_172738.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:27:38",
+        "confianca": 79.03599418743961,
+        "imagem_path": "reconhecimentos/face_20250503_172738.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:27:38",
+        "confianca": 79.03599418743961,
+        "imagem_path": "reconhecimentos/face_20250503_172738.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:27:38",
+        "confianca": 79.3523394643189,
+        "imagem_path": "reconhecimentos/face_20250503_172738.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:27:38",
+        "confianca": 79.52597909858939,
+        "imagem_path": "reconhecimentos/face_20250503_172738.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:27:38",
+        "confianca": 78.98079920196568,
+        "imagem_path": "reconhecimentos/face_20250503_172738.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:27:42",
+        "confianca": 79.9239536393409,
+        "imagem_path": "reconhecimentos/face_20250503_172742.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:27:42",
+        "confianca": 78.35677767838004,
+        "imagem_path": "reconhecimentos/face_20250503_172742.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:27:42",
+        "confianca": 79.15077847140509,
+        "imagem_path": "reconhecimentos/face_20250503_172742.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:27:43",
+        "confianca": 79.97727600438105,
+        "imagem_path": "reconhecimentos/face_20250503_172743.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:27:43",
+        "confianca": 78.07051507791971,
+        "imagem_path": "reconhecimentos/face_20250503_172743.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:27:43",
+        "confianca": 79.27525667581905,
+        "imagem_path": "reconhecimentos/face_20250503_172743.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:27:43",
+        "confianca": 79.28122991597289,
+        "imagem_path": "reconhecimentos/face_20250503_172743.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:27:43",
+        "confianca": 79.55291204487465,
+        "imagem_path": "reconhecimentos/face_20250503_172743.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:27:43",
+        "confianca": 79.5595442458187,
+        "imagem_path": "reconhecimentos/face_20250503_172743.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:27:53",
+        "confianca": 79.51304872552859,
+        "imagem_path": "reconhecimentos/face_20250503_172753.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:27:53",
+        "confianca": 78.91763432067076,
+        "imagem_path": "reconhecimentos/face_20250503_172753.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:27:53",
+        "confianca": 78.43776706745334,
+        "imagem_path": "reconhecimentos/face_20250503_172753.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:27:53",
+        "confianca": 76.62261722793178,
+        "imagem_path": "reconhecimentos/face_20250503_172753.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:27:53",
+        "confianca": 78.01054031328508,
+        "imagem_path": "reconhecimentos/face_20250503_172753.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:27:53",
+        "confianca": 78.00724719122577,
+        "imagem_path": "reconhecimentos/face_20250503_172753.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:27:53",
+        "confianca": 76.1638824393557,
+        "imagem_path": "reconhecimentos/face_20250503_172753.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:27:53",
+        "confianca": 77.72967818643413,
+        "imagem_path": "reconhecimentos/face_20250503_172753.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:27:53",
+        "confianca": 76.57126718327054,
+        "imagem_path": "reconhecimentos/face_20250503_172753.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:27:53",
+        "confianca": 76.98369443972746,
+        "imagem_path": "reconhecimentos/face_20250503_172753.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:27:53",
+        "confianca": 78.52674982807825,
+        "imagem_path": "reconhecimentos/face_20250503_172753.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:27:53",
+        "confianca": 76.91560497654834,
+        "imagem_path": "reconhecimentos/face_20250503_172753.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:27:53",
+        "confianca": 79.19212845393412,
+        "imagem_path": "reconhecimentos/face_20250503_172753.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:27:53",
+        "confianca": 77.60511731379461,
+        "imagem_path": "reconhecimentos/face_20250503_172753.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:27:53",
+        "confianca": 79.0933952209118,
+        "imagem_path": "reconhecimentos/face_20250503_172753.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:27:53",
+        "confianca": 77.62345218214543,
+        "imagem_path": "reconhecimentos/face_20250503_172753.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:27:53",
+        "confianca": 78.81480689331542,
+        "imagem_path": "reconhecimentos/face_20250503_172753.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:27:53",
+        "confianca": 79.43414477184453,
+        "imagem_path": "reconhecimentos/face_20250503_172753.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:27:53",
+        "confianca": 79.07790682267756,
+        "imagem_path": "reconhecimentos/face_20250503_172753.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:27:53",
+        "confianca": 78.80337568601252,
+        "imagem_path": "reconhecimentos/face_20250503_172753.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:27:53",
+        "confianca": 79.80420358636951,
+        "imagem_path": "reconhecimentos/face_20250503_172753.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:27:53",
+        "confianca": 78.24375065309614,
+        "imagem_path": "reconhecimentos/face_20250503_172753.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:27:53",
+        "confianca": 79.43588198895158,
+        "imagem_path": "reconhecimentos/face_20250503_172753.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:27:54",
+        "confianca": 79.58622917448515,
+        "imagem_path": "reconhecimentos/face_20250503_172754.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:04",
+        "confianca": 79.60445978793531,
+        "imagem_path": "reconhecimentos/face_20250503_172804.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:04",
+        "confianca": 78.68985747815768,
+        "imagem_path": "reconhecimentos/face_20250503_172804.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:04",
+        "confianca": 76.89151804790376,
+        "imagem_path": "reconhecimentos/face_20250503_172804.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:04",
+        "confianca": 76.85429184079543,
+        "imagem_path": "reconhecimentos/face_20250503_172804.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:04",
+        "confianca": 77.20342003203402,
+        "imagem_path": "reconhecimentos/face_20250503_172804.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:04",
+        "confianca": 76.90001711561877,
+        "imagem_path": "reconhecimentos/face_20250503_172804.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:04",
+        "confianca": 75.24203253214286,
+        "imagem_path": "reconhecimentos/face_20250503_172804.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:04",
+        "confianca": 77.08081182626458,
+        "imagem_path": "reconhecimentos/face_20250503_172804.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:04",
+        "confianca": 78.11625445469974,
+        "imagem_path": "reconhecimentos/face_20250503_172804.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:04",
+        "confianca": 77.78968546164317,
+        "imagem_path": "reconhecimentos/face_20250503_172804.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:04",
+        "confianca": 77.99350277148771,
+        "imagem_path": "reconhecimentos/face_20250503_172804.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:04",
+        "confianca": 78.01002709042831,
+        "imagem_path": "reconhecimentos/face_20250503_172804.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:04",
+        "confianca": 78.46044202195738,
+        "imagem_path": "reconhecimentos/face_20250503_172804.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:04",
+        "confianca": 77.61331869178623,
+        "imagem_path": "reconhecimentos/face_20250503_172804.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:04",
+        "confianca": 79.93660699293342,
+        "imagem_path": "reconhecimentos/face_20250503_172804.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:04",
+        "confianca": 79.21051500210413,
+        "imagem_path": "reconhecimentos/face_20250503_172804.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:05",
+        "confianca": 76.33685501472941,
+        "imagem_path": "reconhecimentos/face_20250503_172805.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:05",
+        "confianca": 77.57120846050884,
+        "imagem_path": "reconhecimentos/face_20250503_172805.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:05",
+        "confianca": 78.20668752486031,
+        "imagem_path": "reconhecimentos/face_20250503_172805.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:05",
+        "confianca": 75.06009162843284,
+        "imagem_path": "reconhecimentos/face_20250503_172805.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:05",
+        "confianca": 78.13384903050128,
+        "imagem_path": "reconhecimentos/face_20250503_172805.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:05",
+        "confianca": 78.32377316020549,
+        "imagem_path": "reconhecimentos/face_20250503_172805.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:05",
+        "confianca": 76.63077161505811,
+        "imagem_path": "reconhecimentos/face_20250503_172805.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:05",
+        "confianca": 77.9577018340866,
+        "imagem_path": "reconhecimentos/face_20250503_172805.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:05",
+        "confianca": 77.58863858764875,
+        "imagem_path": "reconhecimentos/face_20250503_172805.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:05",
+        "confianca": 76.68824674031939,
+        "imagem_path": "reconhecimentos/face_20250503_172805.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:05",
+        "confianca": 78.27770942224201,
+        "imagem_path": "reconhecimentos/face_20250503_172805.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:05",
+        "confianca": 75.24780898462478,
+        "imagem_path": "reconhecimentos/face_20250503_172805.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:05",
+        "confianca": 77.09538583032713,
+        "imagem_path": "reconhecimentos/face_20250503_172805.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:05",
+        "confianca": 78.73840165999773,
+        "imagem_path": "reconhecimentos/face_20250503_172805.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:05",
+        "confianca": 78.971978379965,
+        "imagem_path": "reconhecimentos/face_20250503_172805.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:05",
+        "confianca": 79.30503176475716,
+        "imagem_path": "reconhecimentos/face_20250503_172805.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:05",
+        "confianca": 79.7530295240876,
+        "imagem_path": "reconhecimentos/face_20250503_172805.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:05",
+        "confianca": 77.44822786929613,
+        "imagem_path": "reconhecimentos/face_20250503_172805.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:05",
+        "confianca": 79.7505320230999,
+        "imagem_path": "reconhecimentos/face_20250503_172805.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:05",
+        "confianca": 77.97151125957429,
+        "imagem_path": "reconhecimentos/face_20250503_172805.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:06",
+        "confianca": 75.14378769528342,
+        "imagem_path": "reconhecimentos/face_20250503_172806.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:06",
+        "confianca": 78.88256822586625,
+        "imagem_path": "reconhecimentos/face_20250503_172806.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:06",
+        "confianca": 79.12261619601439,
+        "imagem_path": "reconhecimentos/face_20250503_172806.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:06",
+        "confianca": 78.50467886885986,
+        "imagem_path": "reconhecimentos/face_20250503_172806.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:07",
+        "confianca": 79.70181806419421,
+        "imagem_path": "reconhecimentos/face_20250503_172807.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:07",
+        "confianca": 79.28011999107092,
+        "imagem_path": "reconhecimentos/face_20250503_172807.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:07",
+        "confianca": 78.77719353291772,
+        "imagem_path": "reconhecimentos/face_20250503_172807.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:07",
+        "confianca": 76.51256851209702,
+        "imagem_path": "reconhecimentos/face_20250503_172807.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:07",
+        "confianca": 78.62079841432183,
+        "imagem_path": "reconhecimentos/face_20250503_172807.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:07",
+        "confianca": 78.62079841432183,
+        "imagem_path": "reconhecimentos/face_20250503_172807.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:07",
+        "confianca": 77.3816799974786,
+        "imagem_path": "reconhecimentos/face_20250503_172807.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:07",
+        "confianca": 79.4526798571095,
+        "imagem_path": "reconhecimentos/face_20250503_172807.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:07",
+        "confianca": 78.29528819024502,
+        "imagem_path": "reconhecimentos/face_20250503_172807.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:07",
+        "confianca": 77.95343225920386,
+        "imagem_path": "reconhecimentos/face_20250503_172807.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:07",
+        "confianca": 77.96185524179262,
+        "imagem_path": "reconhecimentos/face_20250503_172807.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:07",
+        "confianca": 78.12075127543285,
+        "imagem_path": "reconhecimentos/face_20250503_172807.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:08",
+        "confianca": 78.52819585653019,
+        "imagem_path": "reconhecimentos/face_20250503_172808.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:08",
+        "confianca": 77.94776106492391,
+        "imagem_path": "reconhecimentos/face_20250503_172808.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:08",
+        "confianca": 79.28360625844643,
+        "imagem_path": "reconhecimentos/face_20250503_172808.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:08",
+        "confianca": 79.3977906016546,
+        "imagem_path": "reconhecimentos/face_20250503_172808.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:08",
+        "confianca": 78.8162553433449,
+        "imagem_path": "reconhecimentos/face_20250503_172808.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:09",
+        "confianca": 79.5796785932777,
+        "imagem_path": "reconhecimentos/face_20250503_172809.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:11",
+        "confianca": 79.26336804095335,
+        "imagem_path": "reconhecimentos/face_20250503_172811.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:16",
+        "confianca": 79.08233802261367,
+        "imagem_path": "reconhecimentos/face_20250503_172816.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:16",
+        "confianca": 79.68102574430192,
+        "imagem_path": "reconhecimentos/face_20250503_172816.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:16",
+        "confianca": 79.81349202585405,
+        "imagem_path": "reconhecimentos/face_20250503_172816.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:16",
+        "confianca": 79.61595635857014,
+        "imagem_path": "reconhecimentos/face_20250503_172816.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:16",
+        "confianca": 79.38039712023523,
+        "imagem_path": "reconhecimentos/face_20250503_172816.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:16",
+        "confianca": 76.03177551115344,
+        "imagem_path": "reconhecimentos/face_20250503_172816.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:16",
+        "confianca": 78.25264361106396,
+        "imagem_path": "reconhecimentos/face_20250503_172816.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:16",
+        "confianca": 79.09352600480308,
+        "imagem_path": "reconhecimentos/face_20250503_172816.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:16",
+        "confianca": 76.77170743177602,
+        "imagem_path": "reconhecimentos/face_20250503_172816.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:16",
+        "confianca": 79.24008983554414,
+        "imagem_path": "reconhecimentos/face_20250503_172816.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:16",
+        "confianca": 79.43203101547918,
+        "imagem_path": "reconhecimentos/face_20250503_172816.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:16",
+        "confianca": 79.43203101547918,
+        "imagem_path": "reconhecimentos/face_20250503_172816.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:16",
+        "confianca": 78.51103543322625,
+        "imagem_path": "reconhecimentos/face_20250503_172816.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:16",
+        "confianca": 78.3547152995351,
+        "imagem_path": "reconhecimentos/face_20250503_172816.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:16",
+        "confianca": 78.17963552586954,
+        "imagem_path": "reconhecimentos/face_20250503_172816.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:16",
+        "confianca": 79.44327958171742,
+        "imagem_path": "reconhecimentos/face_20250503_172816.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:16",
+        "confianca": 79.7170766937697,
+        "imagem_path": "reconhecimentos/face_20250503_172816.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:17",
+        "confianca": 75.97518993983176,
+        "imagem_path": "reconhecimentos/face_20250503_172817.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:17",
+        "confianca": 77.6426907803802,
+        "imagem_path": "reconhecimentos/face_20250503_172817.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:17",
+        "confianca": 78.22205985628072,
+        "imagem_path": "reconhecimentos/face_20250503_172817.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:17",
+        "confianca": 78.37300291561161,
+        "imagem_path": "reconhecimentos/face_20250503_172817.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:17",
+        "confianca": 76.8844597207791,
+        "imagem_path": "reconhecimentos/face_20250503_172817.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:17",
+        "confianca": 78.39331007510054,
+        "imagem_path": "reconhecimentos/face_20250503_172817.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:17",
+        "confianca": 78.19501238056658,
+        "imagem_path": "reconhecimentos/face_20250503_172817.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:17",
+        "confianca": 79.25292830871352,
+        "imagem_path": "reconhecimentos/face_20250503_172817.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:17",
+        "confianca": 74.89937197427193,
+        "imagem_path": "reconhecimentos/face_20250503_172817.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:17",
+        "confianca": 76.68702090532436,
+        "imagem_path": "reconhecimentos/face_20250503_172817.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:17",
+        "confianca": 78.17409812433417,
+        "imagem_path": "reconhecimentos/face_20250503_172817.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:17",
+        "confianca": 78.51780171949547,
+        "imagem_path": "reconhecimentos/face_20250503_172817.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:17",
+        "confianca": 72.79021330397377,
+        "imagem_path": "reconhecimentos/face_20250503_172817.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:17",
+        "confianca": 75.07897259165189,
+        "imagem_path": "reconhecimentos/face_20250503_172817.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:17",
+        "confianca": 76.34470500341433,
+        "imagem_path": "reconhecimentos/face_20250503_172817.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:17",
+        "confianca": 76.75680555998568,
+        "imagem_path": "reconhecimentos/face_20250503_172817.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:17",
+        "confianca": 76.55935558562449,
+        "imagem_path": "reconhecimentos/face_20250503_172817.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:17",
+        "confianca": 75.947867768838,
+        "imagem_path": "reconhecimentos/face_20250503_172817.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:17",
+        "confianca": 77.40301068495233,
+        "imagem_path": "reconhecimentos/face_20250503_172817.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:18",
+        "confianca": 74.8592059400685,
+        "imagem_path": "reconhecimentos/face_20250503_172818.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:18",
+        "confianca": 76.45679565522563,
+        "imagem_path": "reconhecimentos/face_20250503_172818.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:18",
+        "confianca": 76.70254250184873,
+        "imagem_path": "reconhecimentos/face_20250503_172818.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:18",
+        "confianca": 76.11354929019625,
+        "imagem_path": "reconhecimentos/face_20250503_172818.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:18",
+        "confianca": 76.7181926613848,
+        "imagem_path": "reconhecimentos/face_20250503_172818.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:18",
+        "confianca": 76.36403745526891,
+        "imagem_path": "reconhecimentos/face_20250503_172818.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:18",
+        "confianca": 76.72042791109122,
+        "imagem_path": "reconhecimentos/face_20250503_172818.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:18",
+        "confianca": 77.0837803054145,
+        "imagem_path": "reconhecimentos/face_20250503_172818.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:18",
+        "confianca": 76.48960492958334,
+        "imagem_path": "reconhecimentos/face_20250503_172818.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:18",
+        "confianca": 79.40057089382269,
+        "imagem_path": "reconhecimentos/face_20250503_172818.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:18",
+        "confianca": 76.8886204538621,
+        "imagem_path": "reconhecimentos/face_20250503_172818.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:18",
+        "confianca": 76.8886204538621,
+        "imagem_path": "reconhecimentos/face_20250503_172818.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:20",
+        "confianca": 72.7729224217346,
+        "imagem_path": "reconhecimentos/face_20250503_172820.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:20",
+        "confianca": 69.90435451328614,
+        "imagem_path": "reconhecimentos/face_20250503_172820.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:20",
+        "confianca": 67.45438500849855,
+        "imagem_path": "reconhecimentos/face_20250503_172820.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:20",
+        "confianca": 68.73478423233276,
+        "imagem_path": "reconhecimentos/face_20250503_172820.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:20",
+        "confianca": 68.4351672778081,
+        "imagem_path": "reconhecimentos/face_20250503_172820.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:20",
+        "confianca": 69.22465267841511,
+        "imagem_path": "reconhecimentos/face_20250503_172820.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:20",
+        "confianca": 66.87154320047054,
+        "imagem_path": "reconhecimentos/face_20250503_172820.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:20",
+        "confianca": 66.19258800447477,
+        "imagem_path": "reconhecimentos/face_20250503_172820.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:20",
+        "confianca": 66.61955904825771,
+        "imagem_path": "reconhecimentos/face_20250503_172820.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:20",
+        "confianca": 64.32942035955803,
+        "imagem_path": "reconhecimentos/face_20250503_172820.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:20",
+        "confianca": 63.891204818416455,
+        "imagem_path": "reconhecimentos/face_20250503_172820.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:20",
+        "confianca": 64.37537505487656,
+        "imagem_path": "reconhecimentos/face_20250503_172820.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:20",
+        "confianca": 63.333225444713314,
+        "imagem_path": "reconhecimentos/face_20250503_172820.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:20",
+        "confianca": 64.73625895189961,
+        "imagem_path": "reconhecimentos/face_20250503_172820.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:20",
+        "confianca": 64.82731044826471,
+        "imagem_path": "reconhecimentos/face_20250503_172820.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:20",
+        "confianca": 64.44460915906451,
+        "imagem_path": "reconhecimentos/face_20250503_172820.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:21",
+        "confianca": 65.29149825499572,
+        "imagem_path": "reconhecimentos/face_20250503_172820.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:21",
+        "confianca": 68.23983766287583,
+        "imagem_path": "reconhecimentos/face_20250503_172821.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:21",
+        "confianca": 69.82016392801894,
+        "imagem_path": "reconhecimentos/face_20250503_172821.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:21",
+        "confianca": 66.8326934861711,
+        "imagem_path": "reconhecimentos/face_20250503_172821.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:21",
+        "confianca": 66.66334901975934,
+        "imagem_path": "reconhecimentos/face_20250503_172821.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:21",
+        "confianca": 65.91062755683589,
+        "imagem_path": "reconhecimentos/face_20250503_172821.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:21",
+        "confianca": 66.7603756754233,
+        "imagem_path": "reconhecimentos/face_20250503_172821.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:21",
+        "confianca": 67.90120598750119,
+        "imagem_path": "reconhecimentos/face_20250503_172821.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:21",
+        "confianca": 67.76490960651205,
+        "imagem_path": "reconhecimentos/face_20250503_172821.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:21",
+        "confianca": 65.28063952332394,
+        "imagem_path": "reconhecimentos/face_20250503_172821.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:21",
+        "confianca": 67.51294157038018,
+        "imagem_path": "reconhecimentos/face_20250503_172821.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:21",
+        "confianca": 67.31230493376161,
+        "imagem_path": "reconhecimentos/face_20250503_172821.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:21",
+        "confianca": 70.70345102820849,
+        "imagem_path": "reconhecimentos/face_20250503_172821.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:21",
+        "confianca": 70.68841989862761,
+        "imagem_path": "reconhecimentos/face_20250503_172821.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:21",
+        "confianca": 67.7308237565537,
+        "imagem_path": "reconhecimentos/face_20250503_172821.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:22",
+        "confianca": 69.58357194935913,
+        "imagem_path": "reconhecimentos/face_20250503_172821.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:22",
+        "confianca": 68.9172575890993,
+        "imagem_path": "reconhecimentos/face_20250503_172822.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:22",
+        "confianca": 69.11288591509205,
+        "imagem_path": "reconhecimentos/face_20250503_172822.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:22",
+        "confianca": 69.43321165545765,
+        "imagem_path": "reconhecimentos/face_20250503_172822.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:22",
+        "confianca": 65.95579918705135,
+        "imagem_path": "reconhecimentos/face_20250503_172822.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:22",
+        "confianca": 69.20558125739402,
+        "imagem_path": "reconhecimentos/face_20250503_172822.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:22",
+        "confianca": 68.9808153679755,
+        "imagem_path": "reconhecimentos/face_20250503_172822.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:22",
+        "confianca": 68.20900142479017,
+        "imagem_path": "reconhecimentos/face_20250503_172822.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:22",
+        "confianca": 69.30942388997856,
+        "imagem_path": "reconhecimentos/face_20250503_172822.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:22",
+        "confianca": 68.77685192132546,
+        "imagem_path": "reconhecimentos/face_20250503_172822.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:22",
+        "confianca": 68.50743673979208,
+        "imagem_path": "reconhecimentos/face_20250503_172822.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:22",
+        "confianca": 69.76208954838059,
+        "imagem_path": "reconhecimentos/face_20250503_172822.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:22",
+        "confianca": 68.94111115730969,
+        "imagem_path": "reconhecimentos/face_20250503_172822.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:22",
+        "confianca": 72.68953134313719,
+        "imagem_path": "reconhecimentos/face_20250503_172822.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:22",
+        "confianca": 69.2674485400774,
+        "imagem_path": "reconhecimentos/face_20250503_172822.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:22",
+        "confianca": 69.9082328811242,
+        "imagem_path": "reconhecimentos/face_20250503_172822.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:22",
+        "confianca": 74.86169957038466,
+        "imagem_path": "reconhecimentos/face_20250503_172822.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:22",
+        "confianca": 70.44009270818472,
+        "imagem_path": "reconhecimentos/face_20250503_172822.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:22",
+        "confianca": 68.84613991111331,
+        "imagem_path": "reconhecimentos/face_20250503_172822.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:22",
+        "confianca": 71.3075204821087,
+        "imagem_path": "reconhecimentos/face_20250503_172822.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:22",
+        "confianca": 71.81956132661297,
+        "imagem_path": "reconhecimentos/face_20250503_172822.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:22",
+        "confianca": 71.59711734785164,
+        "imagem_path": "reconhecimentos/face_20250503_172822.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:23",
+        "confianca": 72.60025874762657,
+        "imagem_path": "reconhecimentos/face_20250503_172822.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:23",
+        "confianca": 71.15890404121082,
+        "imagem_path": "reconhecimentos/face_20250503_172823.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:23",
+        "confianca": 71.50893403131576,
+        "imagem_path": "reconhecimentos/face_20250503_172823.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:23",
+        "confianca": 71.58345461582459,
+        "imagem_path": "reconhecimentos/face_20250503_172823.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:23",
+        "confianca": 72.31059390226882,
+        "imagem_path": "reconhecimentos/face_20250503_172823.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:23",
+        "confianca": 72.73948833451506,
+        "imagem_path": "reconhecimentos/face_20250503_172823.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:23",
+        "confianca": 73.04845499431322,
+        "imagem_path": "reconhecimentos/face_20250503_172823.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:23",
+        "confianca": 70.53874790091818,
+        "imagem_path": "reconhecimentos/face_20250503_172823.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:23",
+        "confianca": 68.95731788927257,
+        "imagem_path": "reconhecimentos/face_20250503_172823.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:23",
+        "confianca": 70.64423760983875,
+        "imagem_path": "reconhecimentos/face_20250503_172823.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:23",
+        "confianca": 69.74676127537931,
+        "imagem_path": "reconhecimentos/face_20250503_172823.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:23",
+        "confianca": 69.52410343271139,
+        "imagem_path": "reconhecimentos/face_20250503_172823.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:23",
+        "confianca": 70.32475076573027,
+        "imagem_path": "reconhecimentos/face_20250503_172823.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:23",
+        "confianca": 69.99154495139825,
+        "imagem_path": "reconhecimentos/face_20250503_172823.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:23",
+        "confianca": 69.38930081843284,
+        "imagem_path": "reconhecimentos/face_20250503_172823.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:23",
+        "confianca": 68.89727545492437,
+        "imagem_path": "reconhecimentos/face_20250503_172823.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:23",
+        "confianca": 73.15413454941047,
+        "imagem_path": "reconhecimentos/face_20250503_172823.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:23",
+        "confianca": 71.4724526572591,
+        "imagem_path": "reconhecimentos/face_20250503_172823.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:23",
+        "confianca": 73.53226293239838,
+        "imagem_path": "reconhecimentos/face_20250503_172823.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:23",
+        "confianca": 71.25855026053203,
+        "imagem_path": "reconhecimentos/face_20250503_172823.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:23",
+        "confianca": 67.97557795855673,
+        "imagem_path": "reconhecimentos/face_20250503_172823.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:23",
+        "confianca": 68.0858871073202,
+        "imagem_path": "reconhecimentos/face_20250503_172823.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:23",
+        "confianca": 69.7843811248023,
+        "imagem_path": "reconhecimentos/face_20250503_172823.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:24",
+        "confianca": 69.78585322025572,
+        "imagem_path": "reconhecimentos/face_20250503_172824.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:24",
+        "confianca": 72.04672826151877,
+        "imagem_path": "reconhecimentos/face_20250503_172824.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:24",
+        "confianca": 71.66547428471195,
+        "imagem_path": "reconhecimentos/face_20250503_172824.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:24",
+        "confianca": 71.42565378888602,
+        "imagem_path": "reconhecimentos/face_20250503_172824.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:24",
+        "confianca": 71.15657679487079,
+        "imagem_path": "reconhecimentos/face_20250503_172824.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:24",
+        "confianca": 72.7120363001489,
+        "imagem_path": "reconhecimentos/face_20250503_172824.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:24",
+        "confianca": 68.92397433443706,
+        "imagem_path": "reconhecimentos/face_20250503_172824.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:24",
+        "confianca": 69.54297120574597,
+        "imagem_path": "reconhecimentos/face_20250503_172824.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:24",
+        "confianca": 69.88181295111441,
+        "imagem_path": "reconhecimentos/face_20250503_172824.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:24",
+        "confianca": 71.4718972512731,
+        "imagem_path": "reconhecimentos/face_20250503_172824.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:24",
+        "confianca": 76.63885135703278,
+        "imagem_path": "reconhecimentos/face_20250503_172824.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:24",
+        "confianca": 75.41418599953454,
+        "imagem_path": "reconhecimentos/face_20250503_172824.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:24",
+        "confianca": 76.05314442103766,
+        "imagem_path": "reconhecimentos/face_20250503_172824.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:24",
+        "confianca": 73.57607704826005,
+        "imagem_path": "reconhecimentos/face_20250503_172824.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:24",
+        "confianca": 76.60600163694366,
+        "imagem_path": "reconhecimentos/face_20250503_172824.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:24",
+        "confianca": 75.78875524975,
+        "imagem_path": "reconhecimentos/face_20250503_172824.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:24",
+        "confianca": 72.49992072216855,
+        "imagem_path": "reconhecimentos/face_20250503_172824.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:24",
+        "confianca": 72.49992072216855,
+        "imagem_path": "reconhecimentos/face_20250503_172824.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:25",
+        "confianca": 74.23717448089668,
+        "imagem_path": "reconhecimentos/face_20250503_172824.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:25",
+        "confianca": 75.27003809156109,
+        "imagem_path": "reconhecimentos/face_20250503_172825.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:25",
+        "confianca": 77.4442866360993,
+        "imagem_path": "reconhecimentos/face_20250503_172825.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:25",
+        "confianca": 78.2699409420087,
+        "imagem_path": "reconhecimentos/face_20250503_172825.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:25",
+        "confianca": 79.62713793804679,
+        "imagem_path": "reconhecimentos/face_20250503_172825.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:25",
+        "confianca": 78.61579206165678,
+        "imagem_path": "reconhecimentos/face_20250503_172825.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:25",
+        "confianca": 78.70772499461955,
+        "imagem_path": "reconhecimentos/face_20250503_172825.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:25",
+        "confianca": 73.14819540589556,
+        "imagem_path": "reconhecimentos/face_20250503_172825.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:25",
+        "confianca": 79.4324502637545,
+        "imagem_path": "reconhecimentos/face_20250503_172825.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:25",
+        "confianca": 78.49821943379287,
+        "imagem_path": "reconhecimentos/face_20250503_172825.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:25",
+        "confianca": 74.76967096844055,
+        "imagem_path": "reconhecimentos/face_20250503_172825.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:25",
+        "confianca": 74.68292217126606,
+        "imagem_path": "reconhecimentos/face_20250503_172825.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:25",
+        "confianca": 73.36319538704822,
+        "imagem_path": "reconhecimentos/face_20250503_172825.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:25",
+        "confianca": 79.9407956258882,
+        "imagem_path": "reconhecimentos/face_20250503_172825.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:28",
+        "confianca": 77.42692259951517,
+        "imagem_path": "reconhecimentos/face_20250503_172828.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:28",
+        "confianca": 77.5730179268897,
+        "imagem_path": "reconhecimentos/face_20250503_172828.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:28",
+        "confianca": 79.30306971451198,
+        "imagem_path": "reconhecimentos/face_20250503_172828.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:28",
+        "confianca": 77.41196747374158,
+        "imagem_path": "reconhecimentos/face_20250503_172828.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:28",
+        "confianca": 77.87664450679227,
+        "imagem_path": "reconhecimentos/face_20250503_172828.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:28",
+        "confianca": 79.70953440719362,
+        "imagem_path": "reconhecimentos/face_20250503_172828.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:29",
+        "confianca": 78.43588451695572,
+        "imagem_path": "reconhecimentos/face_20250503_172829.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:29",
+        "confianca": 79.82312357412076,
+        "imagem_path": "reconhecimentos/face_20250503_172829.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:29",
+        "confianca": 79.65498422472552,
+        "imagem_path": "reconhecimentos/face_20250503_172829.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:29",
+        "confianca": 79.84230261948116,
+        "imagem_path": "reconhecimentos/face_20250503_172829.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:29",
+        "confianca": 79.60176819600782,
+        "imagem_path": "reconhecimentos/face_20250503_172829.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:29",
+        "confianca": 79.3531238472123,
+        "imagem_path": "reconhecimentos/face_20250503_172829.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:29",
+        "confianca": 79.45370583689832,
+        "imagem_path": "reconhecimentos/face_20250503_172829.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:29",
+        "confianca": 79.70525410953285,
+        "imagem_path": "reconhecimentos/face_20250503_172829.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:29",
+        "confianca": 79.23795848700766,
+        "imagem_path": "reconhecimentos/face_20250503_172829.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:29",
+        "confianca": 79.32276980607277,
+        "imagem_path": "reconhecimentos/face_20250503_172829.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:29",
+        "confianca": 79.83468154563528,
+        "imagem_path": "reconhecimentos/face_20250503_172829.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:30",
+        "confianca": 77.5599533875832,
+        "imagem_path": "reconhecimentos/face_20250503_172830.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:30",
+        "confianca": 78.4840128746511,
+        "imagem_path": "reconhecimentos/face_20250503_172830.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:30",
+        "confianca": 79.76137749326804,
+        "imagem_path": "reconhecimentos/face_20250503_172830.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:30",
+        "confianca": 79.2067769593916,
+        "imagem_path": "reconhecimentos/face_20250503_172830.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:30",
+        "confianca": 78.60961352809413,
+        "imagem_path": "reconhecimentos/face_20250503_172830.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:30",
+        "confianca": 77.19774047670838,
+        "imagem_path": "reconhecimentos/face_20250503_172830.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:30",
+        "confianca": 79.40828195527175,
+        "imagem_path": "reconhecimentos/face_20250503_172830.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:30",
+        "confianca": 78.53316838615979,
+        "imagem_path": "reconhecimentos/face_20250503_172830.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:31",
+        "confianca": 78.17724454052431,
+        "imagem_path": "reconhecimentos/face_20250503_172830.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:31",
+        "confianca": 76.90998992060895,
+        "imagem_path": "reconhecimentos/face_20250503_172831.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:31",
+        "confianca": 79.8778700894098,
+        "imagem_path": "reconhecimentos/face_20250503_172831.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:31",
+        "confianca": 75.7212842318269,
+        "imagem_path": "reconhecimentos/face_20250503_172831.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:31",
+        "confianca": 75.74966921433384,
+        "imagem_path": "reconhecimentos/face_20250503_172831.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:31",
+        "confianca": 73.17464564077464,
+        "imagem_path": "reconhecimentos/face_20250503_172831.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:31",
+        "confianca": 76.2492788066746,
+        "imagem_path": "reconhecimentos/face_20250503_172831.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:31",
+        "confianca": 68.40800227614666,
+        "imagem_path": "reconhecimentos/face_20250503_172831.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:31",
+        "confianca": 69.01350800034938,
+        "imagem_path": "reconhecimentos/face_20250503_172831.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:31",
+        "confianca": 76.66185893862394,
+        "imagem_path": "reconhecimentos/face_20250503_172831.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:31",
+        "confianca": 77.40632616238555,
+        "imagem_path": "reconhecimentos/face_20250503_172831.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:31",
+        "confianca": 73.82886811036515,
+        "imagem_path": "reconhecimentos/face_20250503_172831.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:31",
+        "confianca": 75.94761321981647,
+        "imagem_path": "reconhecimentos/face_20250503_172831.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:31",
+        "confianca": 72.3862886863092,
+        "imagem_path": "reconhecimentos/face_20250503_172831.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:31",
+        "confianca": 69.66323762605906,
+        "imagem_path": "reconhecimentos/face_20250503_172831.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:31",
+        "confianca": 71.3333449554956,
+        "imagem_path": "reconhecimentos/face_20250503_172831.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:32",
+        "confianca": 70.64076230775737,
+        "imagem_path": "reconhecimentos/face_20250503_172832.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:32",
+        "confianca": 72.51951043062743,
+        "imagem_path": "reconhecimentos/face_20250503_172832.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:32",
+        "confianca": 72.96616228274526,
+        "imagem_path": "reconhecimentos/face_20250503_172832.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:32",
+        "confianca": 73.74819453078057,
+        "imagem_path": "reconhecimentos/face_20250503_172832.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:32",
+        "confianca": 73.65288340479893,
+        "imagem_path": "reconhecimentos/face_20250503_172832.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:32",
+        "confianca": 74.20840713621999,
+        "imagem_path": "reconhecimentos/face_20250503_172832.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:32",
+        "confianca": 74.36254405590797,
+        "imagem_path": "reconhecimentos/face_20250503_172832.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:32",
+        "confianca": 71.92521679772823,
+        "imagem_path": "reconhecimentos/face_20250503_172832.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:32",
+        "confianca": 71.4157939083649,
+        "imagem_path": "reconhecimentos/face_20250503_172832.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:32",
+        "confianca": 71.22319821059388,
+        "imagem_path": "reconhecimentos/face_20250503_172832.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:32",
+        "confianca": 70.20935696275009,
+        "imagem_path": "reconhecimentos/face_20250503_172832.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:32",
+        "confianca": 73.3110355507242,
+        "imagem_path": "reconhecimentos/face_20250503_172832.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:32",
+        "confianca": 72.32854868203019,
+        "imagem_path": "reconhecimentos/face_20250503_172832.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:32",
+        "confianca": 73.04527176041438,
+        "imagem_path": "reconhecimentos/face_20250503_172832.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:32",
+        "confianca": 75.20171080624897,
+        "imagem_path": "reconhecimentos/face_20250503_172832.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:32",
+        "confianca": 76.02767106484863,
+        "imagem_path": "reconhecimentos/face_20250503_172832.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:32",
+        "confianca": 76.80556592417443,
+        "imagem_path": "reconhecimentos/face_20250503_172832.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:33",
+        "confianca": 75.60634023946191,
+        "imagem_path": "reconhecimentos/face_20250503_172833.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:33",
+        "confianca": 75.81832958067541,
+        "imagem_path": "reconhecimentos/face_20250503_172833.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:33",
+        "confianca": 73.36004071068628,
+        "imagem_path": "reconhecimentos/face_20250503_172833.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:33",
+        "confianca": 73.84179278034289,
+        "imagem_path": "reconhecimentos/face_20250503_172833.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:33",
+        "confianca": 73.84179278034289,
+        "imagem_path": "reconhecimentos/face_20250503_172833.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:33",
+        "confianca": 70.02588450167214,
+        "imagem_path": "reconhecimentos/face_20250503_172833.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:33",
+        "confianca": 70.69929408689714,
+        "imagem_path": "reconhecimentos/face_20250503_172833.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:33",
+        "confianca": 72.01270092302954,
+        "imagem_path": "reconhecimentos/face_20250503_172833.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:33",
+        "confianca": 71.06543601759682,
+        "imagem_path": "reconhecimentos/face_20250503_172833.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:33",
+        "confianca": 70.75094774605839,
+        "imagem_path": "reconhecimentos/face_20250503_172833.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:33",
+        "confianca": 71.32308411281514,
+        "imagem_path": "reconhecimentos/face_20250503_172833.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:33",
+        "confianca": 69.74487832833891,
+        "imagem_path": "reconhecimentos/face_20250503_172833.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:33",
+        "confianca": 71.5883407547466,
+        "imagem_path": "reconhecimentos/face_20250503_172833.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:33",
+        "confianca": 70.0418852075013,
+        "imagem_path": "reconhecimentos/face_20250503_172833.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:33",
+        "confianca": 69.10070216874615,
+        "imagem_path": "reconhecimentos/face_20250503_172833.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:33",
+        "confianca": 70.59591253367067,
+        "imagem_path": "reconhecimentos/face_20250503_172833.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:33",
+        "confianca": 70.94764676746298,
+        "imagem_path": "reconhecimentos/face_20250503_172833.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:34",
+        "confianca": 70.18498338742963,
+        "imagem_path": "reconhecimentos/face_20250503_172834.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:34",
+        "confianca": 70.98170322171723,
+        "imagem_path": "reconhecimentos/face_20250503_172834.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:34",
+        "confianca": 72.68410009738992,
+        "imagem_path": "reconhecimentos/face_20250503_172834.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:34",
+        "confianca": 70.0171858673287,
+        "imagem_path": "reconhecimentos/face_20250503_172834.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:34",
+        "confianca": 70.45546566956787,
+        "imagem_path": "reconhecimentos/face_20250503_172834.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:34",
+        "confianca": 70.60446492733281,
+        "imagem_path": "reconhecimentos/face_20250503_172834.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:34",
+        "confianca": 71.11736748012291,
+        "imagem_path": "reconhecimentos/face_20250503_172834.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:34",
+        "confianca": 70.60227969588719,
+        "imagem_path": "reconhecimentos/face_20250503_172834.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:34",
+        "confianca": 72.17830627472298,
+        "imagem_path": "reconhecimentos/face_20250503_172834.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:34",
+        "confianca": 72.6093692034563,
+        "imagem_path": "reconhecimentos/face_20250503_172834.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:34",
+        "confianca": 72.02971713634035,
+        "imagem_path": "reconhecimentos/face_20250503_172834.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:34",
+        "confianca": 73.37295485987023,
+        "imagem_path": "reconhecimentos/face_20250503_172834.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:34",
+        "confianca": 71.48055707575071,
+        "imagem_path": "reconhecimentos/face_20250503_172834.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:34",
+        "confianca": 70.914862311349,
+        "imagem_path": "reconhecimentos/face_20250503_172834.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:34",
+        "confianca": 70.52209441672017,
+        "imagem_path": "reconhecimentos/face_20250503_172834.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:34",
+        "confianca": 72.1570977575707,
+        "imagem_path": "reconhecimentos/face_20250503_172834.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:34",
+        "confianca": 71.54216285419643,
+        "imagem_path": "reconhecimentos/face_20250503_172834.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:34",
+        "confianca": 72.04008231317034,
+        "imagem_path": "reconhecimentos/face_20250503_172834.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:35",
+        "confianca": 72.14262420155052,
+        "imagem_path": "reconhecimentos/face_20250503_172835.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:35",
+        "confianca": 72.59183330003836,
+        "imagem_path": "reconhecimentos/face_20250503_172835.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:35",
+        "confianca": 70.38462583063694,
+        "imagem_path": "reconhecimentos/face_20250503_172835.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:35",
+        "confianca": 72.45249337853298,
+        "imagem_path": "reconhecimentos/face_20250503_172835.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:35",
+        "confianca": 70.78388144833457,
+        "imagem_path": "reconhecimentos/face_20250503_172835.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:35",
+        "confianca": 72.81279379384439,
+        "imagem_path": "reconhecimentos/face_20250503_172835.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:35",
+        "confianca": 72.41063821340524,
+        "imagem_path": "reconhecimentos/face_20250503_172835.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:35",
+        "confianca": 70.7162969597714,
+        "imagem_path": "reconhecimentos/face_20250503_172835.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:35",
+        "confianca": 72.63344628342234,
+        "imagem_path": "reconhecimentos/face_20250503_172835.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:35",
+        "confianca": 71.59839856551402,
+        "imagem_path": "reconhecimentos/face_20250503_172835.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:35",
+        "confianca": 73.39434029121439,
+        "imagem_path": "reconhecimentos/face_20250503_172835.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:35",
+        "confianca": 74.37069310036678,
+        "imagem_path": "reconhecimentos/face_20250503_172835.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:35",
+        "confianca": 71.47119097488527,
+        "imagem_path": "reconhecimentos/face_20250503_172835.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:35",
+        "confianca": 71.59222037425597,
+        "imagem_path": "reconhecimentos/face_20250503_172835.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:35",
+        "confianca": 72.5270182846798,
+        "imagem_path": "reconhecimentos/face_20250503_172835.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:35",
+        "confianca": 75.08126985942953,
+        "imagem_path": "reconhecimentos/face_20250503_172835.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:35",
+        "confianca": 73.64315943905491,
+        "imagem_path": "reconhecimentos/face_20250503_172835.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:36",
+        "confianca": 74.00729993378376,
+        "imagem_path": "reconhecimentos/face_20250503_172836.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:36",
+        "confianca": 72.8731106417025,
+        "imagem_path": "reconhecimentos/face_20250503_172836.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:36",
+        "confianca": 72.32739266202184,
+        "imagem_path": "reconhecimentos/face_20250503_172836.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:36",
+        "confianca": 75.79816788608765,
+        "imagem_path": "reconhecimentos/face_20250503_172836.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:36",
+        "confianca": 72.53945857467588,
+        "imagem_path": "reconhecimentos/face_20250503_172836.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:36",
+        "confianca": 71.17897848412294,
+        "imagem_path": "reconhecimentos/face_20250503_172836.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:36",
+        "confianca": 73.526476868838,
+        "imagem_path": "reconhecimentos/face_20250503_172836.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:36",
+        "confianca": 73.4952708096981,
+        "imagem_path": "reconhecimentos/face_20250503_172836.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:36",
+        "confianca": 73.4952708096981,
+        "imagem_path": "reconhecimentos/face_20250503_172836.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:36",
+        "confianca": 73.38047257657473,
+        "imagem_path": "reconhecimentos/face_20250503_172836.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:36",
+        "confianca": 73.91768580122813,
+        "imagem_path": "reconhecimentos/face_20250503_172836.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:36",
+        "confianca": 71.7888585953419,
+        "imagem_path": "reconhecimentos/face_20250503_172836.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:36",
+        "confianca": 72.17810521616721,
+        "imagem_path": "reconhecimentos/face_20250503_172836.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:36",
+        "confianca": 71.30961671080307,
+        "imagem_path": "reconhecimentos/face_20250503_172836.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:36",
+        "confianca": 72.39488240861749,
+        "imagem_path": "reconhecimentos/face_20250503_172836.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:36",
+        "confianca": 72.23660693210569,
+        "imagem_path": "reconhecimentos/face_20250503_172836.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:36",
+        "confianca": 74.56977852181174,
+        "imagem_path": "reconhecimentos/face_20250503_172836.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:37",
+        "confianca": 72.06228341006305,
+        "imagem_path": "reconhecimentos/face_20250503_172837.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:37",
+        "confianca": 73.05333078224677,
+        "imagem_path": "reconhecimentos/face_20250503_172837.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:37",
+        "confianca": 71.00534863477532,
+        "imagem_path": "reconhecimentos/face_20250503_172837.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:37",
+        "confianca": 71.98546735428516,
+        "imagem_path": "reconhecimentos/face_20250503_172837.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:37",
+        "confianca": 71.18766092366978,
+        "imagem_path": "reconhecimentos/face_20250503_172837.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:37",
+        "confianca": 70.37515897351999,
+        "imagem_path": "reconhecimentos/face_20250503_172837.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:37",
+        "confianca": 72.21132927068264,
+        "imagem_path": "reconhecimentos/face_20250503_172837.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:37",
+        "confianca": 70.49361523399902,
+        "imagem_path": "reconhecimentos/face_20250503_172837.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:37",
+        "confianca": 72.75924384978131,
+        "imagem_path": "reconhecimentos/face_20250503_172837.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:37",
+        "confianca": 70.96380562474593,
+        "imagem_path": "reconhecimentos/face_20250503_172837.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:37",
+        "confianca": 71.13387646556754,
+        "imagem_path": "reconhecimentos/face_20250503_172837.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:37",
+        "confianca": 71.36991528781842,
+        "imagem_path": "reconhecimentos/face_20250503_172837.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:37",
+        "confianca": 72.08762487232238,
+        "imagem_path": "reconhecimentos/face_20250503_172837.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:37",
+        "confianca": 73.69028342023184,
+        "imagem_path": "reconhecimentos/face_20250503_172837.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:37",
+        "confianca": 70.90812314626801,
+        "imagem_path": "reconhecimentos/face_20250503_172837.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:38",
+        "confianca": 71.33473521327716,
+        "imagem_path": "reconhecimentos/face_20250503_172837.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:38",
+        "confianca": 72.45475686311352,
+        "imagem_path": "reconhecimentos/face_20250503_172838.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:38",
+        "confianca": 72.45475686311352,
+        "imagem_path": "reconhecimentos/face_20250503_172838.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:38",
+        "confianca": 72.9168296596131,
+        "imagem_path": "reconhecimentos/face_20250503_172838.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:38",
+        "confianca": 71.55165392542109,
+        "imagem_path": "reconhecimentos/face_20250503_172838.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:38",
+        "confianca": 71.79087985631254,
+        "imagem_path": "reconhecimentos/face_20250503_172838.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:38",
+        "confianca": 73.3879680989865,
+        "imagem_path": "reconhecimentos/face_20250503_172838.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:38",
+        "confianca": 72.67686124953377,
+        "imagem_path": "reconhecimentos/face_20250503_172838.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:38",
+        "confianca": 74.36972129806527,
+        "imagem_path": "reconhecimentos/face_20250503_172838.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:38",
+        "confianca": 72.59202195978126,
+        "imagem_path": "reconhecimentos/face_20250503_172838.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:38",
+        "confianca": 71.08145548695117,
+        "imagem_path": "reconhecimentos/face_20250503_172838.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:38",
+        "confianca": 71.70348633460003,
+        "imagem_path": "reconhecimentos/face_20250503_172838.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:38",
+        "confianca": 73.30843859813265,
+        "imagem_path": "reconhecimentos/face_20250503_172838.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:38",
+        "confianca": 72.29183757773917,
+        "imagem_path": "reconhecimentos/face_20250503_172838.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:38",
+        "confianca": 72.73582627280821,
+        "imagem_path": "reconhecimentos/face_20250503_172838.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:39",
+        "confianca": 71.45694527655154,
+        "imagem_path": "reconhecimentos/face_20250503_172839.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:39",
+        "confianca": 74.5893273331699,
+        "imagem_path": "reconhecimentos/face_20250503_172839.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:39",
+        "confianca": 73.12609272655733,
+        "imagem_path": "reconhecimentos/face_20250503_172839.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:39",
+        "confianca": 72.97703308675375,
+        "imagem_path": "reconhecimentos/face_20250503_172839.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:39",
+        "confianca": 72.95671790377402,
+        "imagem_path": "reconhecimentos/face_20250503_172839.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:39",
+        "confianca": 69.90927554211541,
+        "imagem_path": "reconhecimentos/face_20250503_172839.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:39",
+        "confianca": 72.16466751017634,
+        "imagem_path": "reconhecimentos/face_20250503_172839.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:39",
+        "confianca": 71.88601287316007,
+        "imagem_path": "reconhecimentos/face_20250503_172839.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:39",
+        "confianca": 74.89289220894037,
+        "imagem_path": "reconhecimentos/face_20250503_172839.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:39",
+        "confianca": 74.72582042722838,
+        "imagem_path": "reconhecimentos/face_20250503_172839.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:39",
+        "confianca": 71.17275808980648,
+        "imagem_path": "reconhecimentos/face_20250503_172839.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:40",
+        "confianca": 71.9535028815934,
+        "imagem_path": "reconhecimentos/face_20250503_172840.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:40",
+        "confianca": 71.9535028815934,
+        "imagem_path": "reconhecimentos/face_20250503_172840.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:40",
+        "confianca": 73.2788849637439,
+        "imagem_path": "reconhecimentos/face_20250503_172840.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:40",
+        "confianca": 71.20235269818752,
+        "imagem_path": "reconhecimentos/face_20250503_172840.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:40",
+        "confianca": 74.21167590485078,
+        "imagem_path": "reconhecimentos/face_20250503_172840.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:40",
+        "confianca": 71.62369868867283,
+        "imagem_path": "reconhecimentos/face_20250503_172840.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:40",
+        "confianca": 72.39774342275811,
+        "imagem_path": "reconhecimentos/face_20250503_172840.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:40",
+        "confianca": 70.26215908265029,
+        "imagem_path": "reconhecimentos/face_20250503_172840.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:40",
+        "confianca": 70.1612415127715,
+        "imagem_path": "reconhecimentos/face_20250503_172840.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:40",
+        "confianca": 72.43766580734449,
+        "imagem_path": "reconhecimentos/face_20250503_172840.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:40",
+        "confianca": 73.20026297115633,
+        "imagem_path": "reconhecimentos/face_20250503_172840.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:40",
+        "confianca": 74.29268618093326,
+        "imagem_path": "reconhecimentos/face_20250503_172840.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:40",
+        "confianca": 74.29268618093326,
+        "imagem_path": "reconhecimentos/face_20250503_172840.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:40",
+        "confianca": 71.65716733468689,
+        "imagem_path": "reconhecimentos/face_20250503_172840.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:40",
+        "confianca": 74.0294710114612,
+        "imagem_path": "reconhecimentos/face_20250503_172840.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:40",
+        "confianca": 72.47253597348256,
+        "imagem_path": "reconhecimentos/face_20250503_172840.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:41",
+        "confianca": 72.06906642873233,
+        "imagem_path": "reconhecimentos/face_20250503_172840.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:41",
+        "confianca": 73.14256339875172,
+        "imagem_path": "reconhecimentos/face_20250503_172841.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:41",
+        "confianca": 72.70188950184335,
+        "imagem_path": "reconhecimentos/face_20250503_172841.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:41",
+        "confianca": 71.59777870731203,
+        "imagem_path": "reconhecimentos/face_20250503_172841.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:41",
+        "confianca": 73.19339047861733,
+        "imagem_path": "reconhecimentos/face_20250503_172841.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:41",
+        "confianca": 72.09882564701819,
+        "imagem_path": "reconhecimentos/face_20250503_172841.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:41",
+        "confianca": 72.64757142300691,
+        "imagem_path": "reconhecimentos/face_20250503_172841.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:41",
+        "confianca": 72.94637078329121,
+        "imagem_path": "reconhecimentos/face_20250503_172841.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:41",
+        "confianca": 70.95521434657552,
+        "imagem_path": "reconhecimentos/face_20250503_172841.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:41",
+        "confianca": 73.68333906960744,
+        "imagem_path": "reconhecimentos/face_20250503_172841.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:41",
+        "confianca": 73.69248439574127,
+        "imagem_path": "reconhecimentos/face_20250503_172841.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:41",
+        "confianca": 74.37258682389144,
+        "imagem_path": "reconhecimentos/face_20250503_172841.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:41",
+        "confianca": 72.63343336922033,
+        "imagem_path": "reconhecimentos/face_20250503_172841.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:41",
+        "confianca": 72.98349647388308,
+        "imagem_path": "reconhecimentos/face_20250503_172841.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:41",
+        "confianca": 73.40352938179991,
+        "imagem_path": "reconhecimentos/face_20250503_172841.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:42",
+        "confianca": 74.68623501607432,
+        "imagem_path": "reconhecimentos/face_20250503_172842.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:42",
+        "confianca": 71.42134907844546,
+        "imagem_path": "reconhecimentos/face_20250503_172842.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:42",
+        "confianca": 73.20346875141583,
+        "imagem_path": "reconhecimentos/face_20250503_172842.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:42",
+        "confianca": 73.24989075100247,
+        "imagem_path": "reconhecimentos/face_20250503_172842.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:42",
+        "confianca": 71.77184098479741,
+        "imagem_path": "reconhecimentos/face_20250503_172842.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:42",
+        "confianca": 72.41152109657784,
+        "imagem_path": "reconhecimentos/face_20250503_172842.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:42",
+        "confianca": 73.47417982595694,
+        "imagem_path": "reconhecimentos/face_20250503_172842.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:42",
+        "confianca": 73.11452717226753,
+        "imagem_path": "reconhecimentos/face_20250503_172842.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:42",
+        "confianca": 72.80967532286489,
+        "imagem_path": "reconhecimentos/face_20250503_172842.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:42",
+        "confianca": 71.78524360857838,
+        "imagem_path": "reconhecimentos/face_20250503_172842.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:42",
+        "confianca": 73.4911185674385,
+        "imagem_path": "reconhecimentos/face_20250503_172842.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:42",
+        "confianca": 71.87351950180486,
+        "imagem_path": "reconhecimentos/face_20250503_172842.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:42",
+        "confianca": 73.11670858415854,
+        "imagem_path": "reconhecimentos/face_20250503_172842.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:43",
+        "confianca": 71.212571334493,
+        "imagem_path": "reconhecimentos/face_20250503_172842.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:43",
+        "confianca": 72.0387900333587,
+        "imagem_path": "reconhecimentos/face_20250503_172843.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:43",
+        "confianca": 77.76383014077444,
+        "imagem_path": "reconhecimentos/face_20250503_172843.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:43",
+        "confianca": 79.51949592113483,
+        "imagem_path": "reconhecimentos/face_20250503_172843.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:43",
+        "confianca": 77.23738064898133,
+        "imagem_path": "reconhecimentos/face_20250503_172843.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:43",
+        "confianca": 72.13277984838066,
+        "imagem_path": "reconhecimentos/face_20250503_172843.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:43",
+        "confianca": 71.6594267421498,
+        "imagem_path": "reconhecimentos/face_20250503_172843.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:43",
+        "confianca": 72.70524358462544,
+        "imagem_path": "reconhecimentos/face_20250503_172843.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:43",
+        "confianca": 74.01120331402268,
+        "imagem_path": "reconhecimentos/face_20250503_172843.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:43",
+        "confianca": 73.47918410454515,
+        "imagem_path": "reconhecimentos/face_20250503_172843.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:43",
+        "confianca": 75.38382250777252,
+        "imagem_path": "reconhecimentos/face_20250503_172843.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:43",
+        "confianca": 76.42081214722546,
+        "imagem_path": "reconhecimentos/face_20250503_172843.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:43",
+        "confianca": 75.46386069800077,
+        "imagem_path": "reconhecimentos/face_20250503_172843.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:43",
+        "confianca": 76.82025650387784,
+        "imagem_path": "reconhecimentos/face_20250503_172843.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:43",
+        "confianca": 77.197107417724,
+        "imagem_path": "reconhecimentos/face_20250503_172843.png"
+    },
+    {
+        "pessoa_id": 1,
+        "timestamp": "2025-05-03 17:28:43",
+        "confianca": 79.09019570382063,
+        "imagem_path": "reconhecimentos/face_20250503_172843.png"
+    }
+]

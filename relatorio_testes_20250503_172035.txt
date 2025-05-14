@@ -1,0 +1,12 @@
+=== Relatório de Testes ===
+Data e Hora: 03/05/2025 17:20:35
+
+Webcam: SUCESSO
+Pré-processamento: SUCESSO
+Modelo LBPH: SUCESSO
+Avaliação: SUCESSO
+
+Observações:
+- Verifique os arquivos de screenshot gerados
+- Verifique o arquivo resultados.csv para métricas
+- Verifique o arquivo metrics_log.csv para logs

@@ -1,0 +1,71 @@
+==================================================
+           RELATÓRIO DE RECONHECIMENTOS           
+==================================================
+
+Período: 2025-05-01 a 2025-05-04
+Data de geração: 2025-05-03 19:13:42
+
+Reconhecimentos encontrados:
+
+------------------------------
+Nome: Lucas Fontes
+CPF: 12258564425
+E-mail: lucasfotesm00@gmail.com
+Data/Hora: 2025-05-03 18:59:34
+Confiança: 83.71%
+
+------------------------------
+Nome: Lucas Fontes
+CPF: 12258564425
+E-mail: lucasfotesm00@gmail.com
+Data/Hora: 2025-05-03 18:59:43
+Confiança: 99.21%
+
+------------------------------
+Nome: Lucas Fontes
+CPF: 12258564425
+E-mail: lucasfotesm00@gmail.com
+Data/Hora: 2025-05-03 19:00:03
+Confiança: 83.24%
+
+------------------------------
+Nome: Lucas Fontes
+CPF: 12258564425
+E-mail: lucasfotesm00@gmail.com
+Data/Hora: 2025-05-03 19:00:12
+Confiança: 82.72%
+
+------------------------------
+Nome: Lucas Fontes
+CPF: 12258564425
+E-mail: lucasfotesm00@gmail.com
+Data/Hora: 2025-05-03 19:00:18
+Confiança: 81.67%
+
+------------------------------
+Nome: Lucas Fontes
+CPF: 12258564425
+E-mail: lucasfotesm00@gmail.com
+Data/Hora: 2025-05-03 19:00:32
+Confiança: 81.27%
+
+------------------------------
+Nome: Lucas Fontes
+CPF: 12258564425
+E-mail: lucasfotesm00@gmail.com
+Data/Hora: 2025-05-03 19:00:38
+Confiança: 98.55%
+
+------------------------------
+Nome: Lucas Fontes
+CPF: 12258564425
+E-mail: lucasfotesm00@gmail.com
+Data/Hora: 2025-05-03 19:09:13
+Confiança: 86.06%
+
+------------------------------
+Nome: Lucas Fontes
+CPF: 12258564425
+E-mail: lucasfotesm00@gmail.com
+Data/Hora: 2025-05-03 19:13:18
+Confiança: 80.55%

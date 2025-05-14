@@ -1,0 +1,101 @@
+[
+    {
+        "pessoa_id": 1,
+        "nome": "Lucas Fontes",
+        "cpf": "12258564425",
+        "email": "lucasfotesm00@gmail.com",
+        "confianca": 83.71201929417599,
+        "face_path": "monitoramento.png",
+        "data_hora": "2025-05-03 18:59:34"
+    },
+    {
+        "pessoa_id": 1,
+        "nome": "Lucas Fontes",
+        "cpf": "12258564425",
+        "email": "lucasfotesm00@gmail.com",
+        "confianca": 99.21212988335694,
+        "face_path": "monitoramento.png",
+        "data_hora": "2025-05-03 18:59:43"
+    },
+    {
+        "pessoa_id": 1,
+        "nome": "Lucas Fontes",
+        "cpf": "12258564425",
+        "email": "lucasfotesm00@gmail.com",
+        "confianca": 83.24249490619829,
+        "face_path": "monitoramento.png",
+        "data_hora": "2025-05-03 19:00:03"
+    },
+    {
+        "pessoa_id": 1,
+        "nome": "Lucas Fontes",
+        "cpf": "12258564425",
+        "email": "lucasfotesm00@gmail.com",
+        "confianca": 82.71580314015702,
+        "face_path": "monitoramento.png",
+        "data_hora": "2025-05-03 19:00:12"
+    },
+    {
+        "pessoa_id": 1,
+        "nome": "Lucas Fontes",
+        "cpf": "12258564425",
+        "email": "lucasfotesm00@gmail.com",
+        "confianca": 81.66705269096225,
+        "face_path": "monitoramento.png",
+        "data_hora": "2025-05-03 19:00:18"
+    },
+    {
+        "pessoa_id": 1,
+        "nome": "Lucas Fontes",
+        "cpf": "12258564425",
+        "email": "lucasfotesm00@gmail.com",
+        "confianca": 81.27293097126184,
+        "face_path": "monitoramento.png",
+        "data_hora": "2025-05-03 19:00:32"
+    },
+    {
+        "pessoa_id": 1,
+        "nome": "Lucas Fontes",
+        "cpf": "12258564425",
+        "email": "lucasfotesm00@gmail.com",
+        "confianca": 98.55307692083312,
+        "face_path": "monitoramento.png",
+        "data_hora": "2025-05-03 19:00:38"
+    },
+    {
+        "pessoa_id": 1,
+        "nome": "Lucas Fontes",
+        "cpf": "12258564425",
+        "email": "lucasfotesm00@gmail.com",
+        "confianca": 86.06402125828072,
+        "face_path": "monitoramento.png",
+        "data_hora": "2025-05-03 19:09:13"
+    },
+    {
+        "pessoa_id": 1,
+        "nome": "Lucas Fontes",
+        "cpf": "12258564425",
+        "email": "lucasfotesm00@gmail.com",
+        "confianca": 80.54677375944419,
+        "face_path": "monitoramento.png",
+        "data_hora": "2025-05-03 19:13:18"
+    },
+    {
+        "pessoa_id": 1,
+        "nome": "Lucas Fontes",
+        "cpf": "12258564425",
+        "email": "lucasfotesm00@gmail.com",
+        "confianca": 80.88345455550149,
+        "face_path": "monitoramento.png",
+        "data_hora": "2025-05-03 19:21:08"
+    },
+    {
+        "pessoa_id": 2,
+        "nome": "Maria Clara",
+        "cpf": "11429254475",
+        "email": "clara.mota15@hotmail.com",
+        "confianca": 90.89250125541793,
+        "face_path": "monitoramento.png",
+        "data_hora": "2025-05-03 19:26:45"
+    }
+]

@@ -1,0 +1,10 @@
+2025-05-03 19:23:10,844 - INFO - Iniciando sistema de reconhecimento facial
+2025-05-03 19:23:10,917 - INFO - Modelo treinado com sucesso! (1 faces)
+2025-05-03 19:24:04,105 - INFO - Iniciando cadastro de nova pessoa
+2025-05-03 19:24:38,685 - INFO - Tentativa de cadastro - Nome: Maria Clara, CPF: 11429254475, Email: clara.mota15@hotmail.com
+2025-05-03 19:24:38,686 - INFO - Iniciando captura de foto
+2025-05-03 19:25:18,779 - INFO - Pessoa cadastrada com sucesso - ID: 2, Nome: Maria Clara
+2025-05-03 19:25:21,749 - INFO - Email de confirmação enviado para clara.mota15@hotmail.com
+2025-05-03 19:25:21,780 - INFO - Modelo retreinado com sucesso
+2025-05-03 19:25:26,915 - INFO - Iniciando monitoramento
+2025-05-03 19:26:45,108 - INFO - Pessoa reconhecida - ID: 2, Nome: Maria Clara, Confiança: 90.89%

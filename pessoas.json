@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "nome": "Lucas Fontes",
+        "cpf": "12258564425",
+        "email": "lucasfotesm00@gmail.com",
+        "face_paths": [
+            "faces\\12258564425.png"
+        ],
+        "data_cadastro": "2025-05-03 18:59:23"
+    },
+    {
+        "id": 2,
+        "nome": "Maria Clara",
+        "cpf": "11429254475",
+        "email": "clara.mota15@hotmail.com",
+        "face_paths": [
+            "faces\\11429254475.png"
+        ],
+        "data_cadastro": "2025-05-03 19:25:18"
+    }
+]
